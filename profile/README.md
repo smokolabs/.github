@@ -1,9 +1,9 @@
 <p align="center">
   <br>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="logo-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="logo-light.svg">
-    <img alt="Smoko Labs" src="logo-dark.svg" width="360">
+    <source media="(prefers-color-scheme: dark)" srcset="logo-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="logo-light.png">
+    <img alt="Smoko Labs" src="logo-light.png" width="360">
   </picture>
   <br><br>
   <strong>Independent Software · Brisbane</strong>
