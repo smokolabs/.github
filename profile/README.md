@@ -1,16 +1,12 @@
-<p align="center">
+<div align="center">
   <br>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="logo-dark.png">
-    <source media="(prefers-color-scheme: light)" srcset="logo-light.png">
-    <img alt="Smoko Labs" src="logo-light.png" width="360">
-  </picture>
+  <img alt="Smoko Labs" src="logo-light.png" width="320" />
   <br><br>
   <strong>Independent Software · Brisbane</strong>
   <br>
   <sub>We build focused products — APIs, tools, and platforms — that solve real problems with minimal fuss.</sub>
   <br><br>
-</p>
+</div>
 
 ---
 
@@ -33,6 +29,6 @@ In Australia, **smoko** is the sacred break — the fifteen minutes where you st
 
 ---
 
-<p align="center">
+<div align="center">
   <sub>Australian-built, technically rigorous, deliberately small.</sub>
-</p>
+</div>
