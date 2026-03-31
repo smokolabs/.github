@@ -1,0 +1,13 @@
+<svg width="520" height="110" viewBox="0 0 520 110" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Enamel mug -->
+  <path d="M12 28 L12 68 C12 76, 18 82, 26 82 L52 82 C60 82, 66 76, 66 68 L66 28" fill="none" stroke="#1A1815" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M6 28 L72 28" stroke="#1A1815" stroke-width="3" stroke-linecap="round"/>
+  <path d="M9 24 L9 28 M69 24 L69 28" stroke="#1A1815" stroke-width="2" stroke-linecap="round"/>
+  <path d="M66 38 C80 38, 84 48, 84 55 C84 62, 80 72, 66 72" fill="none" stroke="#1A1815" stroke-width="3" stroke-linecap="round"/>
+  <!-- Steam -->
+  <path d="M30 24 C27 14, 38 10, 35 0" fill="none" stroke="#C4572A" stroke-width="2.5" stroke-linecap="round" opacity="0.85"/>
+  <path d="M48 22 C50 15, 44 10, 47 2" fill="none" stroke="#C4572A" stroke-width="2" stroke-linecap="round" opacity="0.5"/>
+  <!-- Wordmark -->
+  <text x="105" y="66" font-family="Georgia, 'Times New Roman', serif" font-size="52" fill="#1A1815">Smoko</text>
+  <text x="340" y="66" font-family="Georgia, 'Times New Roman', serif" font-size="52" fill="#C4572A">Labs</text>
+</svg>
